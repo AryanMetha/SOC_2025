@@ -8,7 +8,8 @@
      * Multi Arm Bandit Problem and various solutions
      * Markov Decision Processes and Dynamic Programming
      * Model Free Learning (Methods such as Monte Carlo , TD(λ))
-     * SARSA , Q-Learning 
+     * SARSA , Q-Learning
+     * Neural Networks
        
   
 
