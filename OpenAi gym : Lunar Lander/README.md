@@ -34,5 +34,8 @@ All weights and biases are included in the checkpoint.pt files.
 </p>
 <p align="center"><em>Training ended when avg reward of last 500 episodes exceeded 200</em></p>
 
+### Note: 
+It is visible that the variance is still quite high(orange color) , so the condition for ending traning should be tied to that too insstead of purely foucsing on the average .
+
 ### An inrersting general observation: 
 In general for policy gradient methods , I have obsereved that the learning curve starts out flat for a major chunk and the majority of the progress happens almost suddenly. 
