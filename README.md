@@ -10,6 +10,9 @@
      * Model Free Learning (Methods such as Monte Carlo , TD(λ))
      * SARSA , Q-Learning
      * Neural Networks
+     * Value Function Generalization
+     * Gradient Methods , Least Sqaure Methods, DQN
+     * Policy Gradient Control ( REINFORCE , Actor-Critic)
        
   
 
