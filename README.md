@@ -12,9 +12,10 @@
      * Neural Networks
      * Value Function Generalization,Continuous Spaces
      * Gradient Methods , Least Sqaure Methods, DQN
-     * Policy Gradient Control ( REINFORCE , Actor-Critic)
+     * Policy Gradient Control ( GAE : REINFORCE , Actor-Critic)
      * TRPO,PPO
-     * Implementation using Pytorch,Stable baseline
+     * Planning (Dyna , Monte Carlo Tree Search,A* ,RRT)
+     * Implementation using Pytorch,Stable baseline ,using gym and gymnasium 
        
   
 
