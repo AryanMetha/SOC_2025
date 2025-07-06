@@ -13,6 +13,8 @@
      * Value Function Generalization
      * Gradient Methods , Least Sqaure Methods, DQN
      * Policy Gradient Control ( REINFORCE , Actor-Critic)
+     * TRPO,PPO
+     * Implementation using Pytorch,Stable baseline
        
   
 
