@@ -1,6 +1,7 @@
 # Classic Games and Reinforcement Learning
 
 *The contents of this chapter have been derived from lecture 10 in professor David Silver's series on reinforcement learning.*
+** wrote this as a part of my Summer of Science project on game theory **
 
 ## State of the Art
 
